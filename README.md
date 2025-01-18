@@ -1,0 +1,2 @@
+- Comment out lines containing errors.
+- Delete files where line number 2 is contain errors.
